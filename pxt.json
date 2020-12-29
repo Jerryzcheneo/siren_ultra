@@ -1,0 +1,21 @@
+{
+    "name": "siren_ultra",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "bus_station_ultra": "github:jerryzcheneo/bus_station_ultra#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
