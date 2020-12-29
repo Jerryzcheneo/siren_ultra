@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "bus_station_ultra": "github:jerryzcheneo/bus_station_ultra#master"
+        "bus_station_ultra": "github:jerryzcheneo/bus_station_ultra#master",
+        "bluetooth": "*"
     },
     "files": [
         "main.blocks",
